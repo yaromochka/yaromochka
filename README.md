@@ -1,4 +1,4 @@
-<h1 align="center"><<b>I'am yaromochka></h1>
+<h1 align="center">I'am yaromochka</h1>
 
 <br>
 

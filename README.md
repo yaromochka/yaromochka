@@ -1,7 +1,7 @@
-<h1 align="center">I'am yaromochka</h1>
+<!-- <h1 align="center">I'am yaromochka</h1>
 
 <br>
-<!--
+
 <div align="center">c͍͓͖̩̜͚͙̯̖͙͓̙̝̮͓̓̿̂̅͒̏̌̀̉̊̿̇͗̏̀̀≯̙͙̯̦̪͚̝̙͚͔̯̒̔̑͑͌̈͆͗͂̚#҈̪̜̜̯̦̥̘͙̭͌͌̈́̾͛̆̓́̇̑̄̈$̶͚͍͕͖̜̟͎̟͍̜̌̉̀͛͆̍̑̅ͅ<̶̦̜̙̖̯̣̲͈̳͚͕̦̞͇̀̃̎̿͊̌̏̾͂͛̆̚>҉̗̗͙͇̩̣͇͖͖͎̠̥̱̭̏͆̎̒͌́̐̓̿͒̍̈͆̊%̸̠̗̞̯͚͔̜͙̅͌͆̉̐̈́̑#̷͖͚͙͚̖͓̖̗͈̟̜͕̲͚̓͑͋̔͆͗̓̅̄̽̇͐́̿>̶̤͎̫̜̭̟̩̳̈́̈̿̅̍͊̆̓̚#̷̭̱̲̮̗̦̠̜̙̥͈̭̫͓̂̑̅͛̓͆̍̌͐͑ͅͅ@̵͇̙̭̯̭͚̰̟̞͉͇͉̲̪̌̄̅̽̇͒̉̀̿̍̔͊́̏̚>҈̣̥̖̙͎̗̞͗̿̉̃̿̒̂͐̓̈̍ͅ^̸̙̟̘͇͍̭̦̳̤̖̽͑̅̏͗̆̂̀̈́̀̔̀̚≯̟̙͈̘̳͚̙͉͍̤͂̐͂͑̀͋̅̌@̵̥͍͙͔̰̘̬̩̰̮̳͍̊̄̉̀͒͆͐͂́͌̉́̚̚$̶͙͎̬̰̣͕͖͔̞̳̲͕̭̞̐͐͌̊̉̈́̽̌̽̀̾̂͒̈́̚̚ͅ@̴̬̤̭̘̤̳̥͈̟̇̈́̎͆̿̓͂̾≯͍̰̥̟͓͖͕͎̲̯̙͌̎̒̆͗̾͂̍͌͊̀̄$̴̜͙̮̳̟̣̤͕̱͇̣̪̎̍͐̏̅͛͂͊̆#̸̪̥̞̟̥͇̞̮̟̯͔͎̦̽̐́̽̉̆̓͆>̵̰̜͕̳͍̲̝̟̩̘͇͖̓̐͌̀̑̒́̎̇$̸̠̬̞̱̘͍̣̮̿̿̒̎̀̌̑̒̈̀͋́̑̌̚<҈̯̩̠͉͖̯̠̫̬͖̳̟̟͉̳̍͊͒͗͗̑͛̇̓̓̉̊͒̓̚
 ҈̣̗͈͍͈̲͈̥̰̰͓͎̀͒̃͑͗̅̑͂
 ̸͕̯̭̜͈͎̭̘͎̠͔̞̃̅̇͂͋̏̂̆͑̍͐̒͒̇͌̐
@@ -27,7 +27,7 @@
     <br><s>Ichaqa Diosllan tukuy imata yachan ¿Imaynataq hukmanta preso kasqaykipi tukurqani? Mmm, imaynatataq unayña faltayki</s>
     <br><b>Hey, ¿imaynataq chayna perraman tukurqanki? Uy, tukuy ima kapuqniytam qusqayki Amigoykikunan ninqaku: “Manan kayllachu”, nispa.</b>
     <br>-
-  </div> -->
+  </div>
 
   <hr>
 <div align="center">
@@ -38,7 +38,7 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-</div>
+</div> -->
 
   <div align="center">
     
@@ -48,10 +48,9 @@
   
 </div>
 
-<hr>
 <h2 align="center">Long Live 812</h2>
 
-<div align="center"><img src="https://sun9-25.userapi.com/impg/y9oLiqA70H44Vn9ncm2fjBvYPIYqx8NxnM82xw/Hek2k3qARsA.jpg?size=736x927&quality=96&sign=6d155923207d27680717c6d7ba7ed704&type=album"></img></div>
+<!-- <div align="center"><img src="https://sun9-25.userapi.com/impg/y9oLiqA70H44Vn9ncm2fjBvYPIYqx8NxnM82xw/Hek2k3qARsA.jpg?size=736x927&quality=96&sign=6d155923207d27680717c6d7ba7ed704&type=album"></img></div> -->
 
 <!--Three tomatoes are walkin' down the street.
 Papa Tomato, Mama Tomato and Baby Tomato.

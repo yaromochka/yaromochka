@@ -20,7 +20,7 @@
   <div align="center">
 
     
-  <a href="t.me/yaromochka">  
+  <a href="https://t.me/yaromochka">  
   
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
@@ -34,7 +34,7 @@
 
   </div>
 
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
   
 </div>

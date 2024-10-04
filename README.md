@@ -1,64 +1,31 @@
-<div>
-  <h1 align="center">:yum: I'am yaromochka</h1>
-  <div align="left">
-    
-> <br>Послушайте!
-> <br>Ведь, если звезды зажигают —
-> <br>значит — это кому-нибудь нужно?
-> <br>Значит — кто-то хочет, чтобы они были?
-> <br>Значит — кто-то называет эти плевочки жемчужиной?
-<h3>- Владимир Маяковский, «Послушайте!», 1914 г.</h3>
-<br>
-  </div>
-</div>
 
 
 <div>
   
   <h2 align="center">🤓 About Me</h2>
-
+  
   <div align="center">
 
     
   <a href="https://t.me/yaromochka">  
   
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-  </a>
-  <img src="https://avatanplus.com/files/resources/original/5c96712d9b259169abaa1a43.png" width="500px" height="500px" align="right">
-  </div>
-  <div style="font-size: 50px">
+  <div style="font-size: 24px">
  ㅤ
-    
-    yaromochka
-
   </div>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
   
 </div>
-
-<br><br><br><br>
-
-
+<br>
 
 <div>
   <div align="center">
 <h2>:dash: Skills</h2>
 
-<img src="https://skillicons.dev/icons?i=python,java,git,regex,html,css,sqlite" align="center"><br><br>
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,python,react,java,git,docker,regex,html,css,sqlite" align="center"><br><br>
 </div>
 
 <p align = 'left'>
-  
-```java
-  public class Main {
-    public static void main(String[] args) {
-      System.out.println("Hello World!");
-  }
-}
-```
+
 
 <br>
   
@@ -82,8 +49,6 @@
 </div>
 
 
-
-<h2 align="center">Long Live 812</h2>
 
 
 
